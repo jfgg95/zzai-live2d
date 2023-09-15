@@ -1,0 +1,10 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "beer.moc3",
+		"Textures": [
+			"beer.1024/texture_00.png"
+		],
+		"DisplayInfo": "beer.cdi3.json"
+	}
+}
