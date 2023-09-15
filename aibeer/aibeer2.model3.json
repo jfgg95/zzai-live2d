@@ -1,0 +1,10 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "aibeer2.moc3",
+		"Textures": [
+			"aibeer2.1024/texture_00.png"
+		],
+		"DisplayInfo": "aibeer2.cdi3.json"
+	}
+}
