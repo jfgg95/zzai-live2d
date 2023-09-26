@@ -1,0 +1,17 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "20230912_2.moc3",
+		"Textures": [
+			"20230912_2.1024/texture_00.png"
+		],
+		"DisplayInfo": "20230912_2.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "expression1",
+				"File": "expression1.exp3.json"
+			}
+		]
+	},
+	"HitAreas": []
+}
